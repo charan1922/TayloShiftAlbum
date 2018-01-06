@@ -1,2 +1,0 @@
-# TayloShiftAlbum
-TayloShiftAlbum madewith React
